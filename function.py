@@ -4,5 +4,5 @@ setup()
 print("good night")
 
 def demo():
-    print("good morning)
+    print("good morning")
 demo()
